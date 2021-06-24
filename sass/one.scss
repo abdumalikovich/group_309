@@ -1,5 +1,12 @@
-div {
-    animation: hello 3s infinite;
+.icon{
+    width: 100px;
+    height: 100px;
+    background-image: url(../icon_one/iconfinder_4043262_avatar_man_muslim_icon_512px.png);
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+
 }
 
 
